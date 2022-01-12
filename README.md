@@ -26,7 +26,7 @@ Your final app should look like this:
 4. Add your AssemblyAI key to line 13 of `server.js` (in the `js` folder).
 5. Start the server with the command `npm run server` (will run on port 5000).
 6. Open a second terminal in the main directory of the project and start the client side with `npm run client` (will run on port 3000).
-7. Go to http://localhost:3000. If you click "Start" nothing will happen. Your task is to use the AssemblyAI API to display a real-time transcript under this button once a user starts talking.
+7. Go to http://localhost:3000. If you click "Record" nothing actually happens. Your task is to use the AssemblyAI API to record the user's microphone and then display a real-time transcript under this button once a user starts talking.
 
 ## Further Documentation
 
